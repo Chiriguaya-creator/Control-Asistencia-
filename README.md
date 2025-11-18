@@ -88,3 +88,8 @@ Incluye:
 *Captura del historial de commits
 *Estructura del repositorio
 *versionado de documentos
+
+# Reflexión sobre el Control de Versiones
+El control de versiones es fundamental para el desarrollo del Sistema de Control de Asistencia porque permite llevar un registro claro de todos los cambios realizados, desde la definición de requerimientos hasta la ejecución de pruebas. Gracias a los commits, es posible identificar qué se modificó y corregir errores sin perder información importante.
+
+Subir el proyecto a GitHub fortalece este proceso, ya que ofrece un historial organizado, comparación entre versiones y un lugar seguro donde almacenar el avance del sistema. Además, permite mantener la coherencia entre los requerimientos establecidos y las mejoras realizadas a lo largo del tiempo. En conjunto, el control de versiones y GitHub aseguran que el sistema evolucione de manera ordenada, confiable y fácil de mantener.
